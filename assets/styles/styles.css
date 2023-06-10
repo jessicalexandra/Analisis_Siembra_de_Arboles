@@ -81,11 +81,12 @@ h1 {
 }
 
 body{
-    background-image: url('../img/fondo2.jpg');
+    background-image: url('../img/fondo5.jpg');
     position: relative;
     background-size: cover;
-    background-position: top center;
+    background-position:  center center;
     background-attachment: fixed;
+  
 
 }
 
@@ -97,4 +98,15 @@ footer{
 }
 .banner h1{
     font-size: 80px;
+}
+
+
+.img1{
+    width: 140%;
+    border-radius: 20px;
+    border-right: 80px;
+}
+.texto{
+    font-size: 20px;
+
 }
