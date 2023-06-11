@@ -1,6 +1,13 @@
 from helpers.crearTablasHtml import crearTabla
 #from helpers.crearBarras import graficarPromedioSalarial
 #from helpers.crearTorta import calcularPromedioSalariosPorEdad
+from helpers.Bello.crearTablaHtml import crearTablaBelloQuitasol
+from helpers.Bello.crearBarras import graficarVeredasQuitasol
+from helpers.Bello.crearTorta import calcularPromedioArbolesPorNombreComun
+from helpers.Caramanta.crearTablaHtml import crearTablaCaramanta
+from helpers.Caramanta.crearBarras import graficarSiembraCaramanta
+from helpers.Yarumal.crearBarras import graficarVeredaMarinillo
+from helpers.Yarumal.crearTablaHtml import crearTablaVeredaMarinillo
 import pandas as pd
 from matplotlib import pyplot as plt
 #Crear Dataframe
